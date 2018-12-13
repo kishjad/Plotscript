@@ -1,0 +1,7 @@
+.vagrant
+build/
+changes.txt
+.vscode
+CMakeFiles
+changes.txt
+.json
